@@ -43,6 +43,7 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 
 ![image](https://user-images.githubusercontent.com/116779906/201504476-57c3497a-e99b-41d2-87b4-3ad573b3a3bb.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504480-3e5f4c38-6d98-40d9-b9b2-e0524694006e.png)
+![image](https://user-images.githubusercontent.com/116779906/201504510-4b8e3d89-baac-4f77-877a-7a8a0b85100d.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504484-05d89d17-b34d-451f-b3e7-d281a06fbc79.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504485-4a4caed4-8b4d-44f6-b20d-750fabed5177.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504491-12e2c986-0789-463d-a9eb-6dd4253aed7f.png)
