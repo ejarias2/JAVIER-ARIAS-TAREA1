@@ -33,11 +33,20 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ![9_MC](https://user-images.githubusercontent.com/93893919/140950209-56370dfd-6676-40c8-ad06-85530450c94d.jpeg)
 
 ## 3. RESOLUCIÓN DE EJERCICIOS Y PROBLEMAS
+
+### Capítulo 1
 ![image](https://user-images.githubusercontent.com/116779906/201504387-29a563d7-5f1c-4b9b-9b06-d4139168ebb5.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504389-16c04000-f44f-4cd8-8689-0731dabc1c66.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504415-82b67d84-56b4-41ce-80aa-8407944b9bc5.png)
-![image](https://user-images.githubusercontent.com/116779906/201504420-7889791d-17a0-40f2-bb8e-f9eebb8b0bfe.png)
 
+### Capítulo 2
+
+![image](https://user-images.githubusercontent.com/116779906/201504476-57c3497a-e99b-41d2-87b4-3ad573b3a3bb.png)
+![image](https://user-images.githubusercontent.com/116779906/201504480-3e5f4c38-6d98-40d9-b9b2-e0524694006e.png)
+![image](https://user-images.githubusercontent.com/116779906/201504484-05d89d17-b34d-451f-b3e7-d281a06fbc79.png)
+![image](https://user-images.githubusercontent.com/116779906/201504485-4a4caed4-8b4d-44f6-b20d-750fabed5177.png)
+![image](https://user-images.githubusercontent.com/116779906/201504491-12e2c986-0789-463d-a9eb-6dd4253aed7f.png)
+![image](https://user-images.githubusercontent.com/116779906/201504494-b91d3066-6d4c-4f24-8dc9-3a2f60d1f90b.png)
 
 
 ## 4. VIDEO
