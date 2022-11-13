@@ -35,25 +35,27 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ## 3. RESOLUCIÓN DE EJERCICIOS Y PROBLEMAS
 
 ### Capítulo 1
-![image](https://user-images.githubusercontent.com/116779906/201504387-29a563d7-5f1c-4b9b-9b06-d4139168ebb5.png)
-![image](https://user-images.githubusercontent.com/116779906/201504389-16c04000-f44f-4cd8-8689-0731dabc1c66.png)
-![image](https://user-images.githubusercontent.com/116779906/201504415-82b67d84-56b4-41ce-80aa-8407944b9bc5.png)
+![image](https://user-images.githubusercontent.com/116779906/201504991-c9e67ad7-d3a0-4883-8382-60d68c914408.png)
+![image](https://user-images.githubusercontent.com/116779906/201504997-f56d87b3-92f5-4e35-8556-ce6dd20f2768.png)
 
 ### Capítulo 2
 
-![image](https://user-images.githubusercontent.com/116779906/201504476-57c3497a-e99b-41d2-87b4-3ad573b3a3bb.png)
-![image](https://user-images.githubusercontent.com/116779906/201504480-3e5f4c38-6d98-40d9-b9b2-e0524694006e.png)
-![image](https://user-images.githubusercontent.com/116779906/201504672-642741a1-bfc9-4c38-9eb2-6dfea3bc79e7.png)
-![image](https://user-images.githubusercontent.com/116779906/201504676-75f789e9-ddd9-4dc0-a213-506128e94aea.png)
-![image](https://user-images.githubusercontent.com/116779906/201504683-535e4a5e-abe1-4973-8a65-8d63d6d22612.png)
-![image](https://user-images.githubusercontent.com/116779906/201504689-5c8b79bc-dbbe-4bb3-8118-fb809b24dab8.png)
-![image](https://user-images.githubusercontent.com/116779906/201504691-35ffae30-e522-42ea-9ed8-481f6be14df6.png)
-![image](https://user-images.githubusercontent.com/116779906/201504694-323c6dbb-4770-45d7-b487-ce6dd843e9cf.png)
+![image](https://user-images.githubusercontent.com/116779906/201504999-8e231564-00d6-42c7-80fd-1b90accf4d00.png)
+![image](https://user-images.githubusercontent.com/116779906/201505008-f1ced30c-1b8b-41de-b182-db29f3d98dc7.png)
+![image](https://user-images.githubusercontent.com/116779906/201505012-e793d791-4cc7-4eb9-a3af-1cff771d10e7.png)
+![image](https://user-images.githubusercontent.com/116779906/201505020-0820725d-c999-4990-b32c-d960c1fa8886.png)
+![image](https://user-images.githubusercontent.com/116779906/201505021-9bec5464-b6fc-4be9-86f0-7e023ba6f1f9.png)
+![image](https://user-images.githubusercontent.com/116779906/201505026-597ab850-8ab9-4264-8f6a-03b58007e6fc.png)
 
 
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
+-El uso de la notacion cientificia y de ingenieria es sumamente util al momento de querer trabajar con numeros de gran tamaño esto apoyado por los prefijos metricos (en caso de notacion de ingenieria) quienes sustituyen la necesidad de escribir la base 10, agilizando el trabajo.
+
+-Los circuitos electricos son sistemas muy complejos formados principalmente por una fuente, trayectoria y su carga, los cuales se pueden encontrar en distintas formas segun el uso que se le vaya a emplear.
+
+-Los resistores son componentes que funcionan a base de un codigo de colores cuya mayor funcionalidad es la de limitar o fijar los valores de corriente que pasen a traves de la misma
 
 ## 6. BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
