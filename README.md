@@ -21,7 +21,7 @@ INTRODUCCIÓN:
 -La persona que va a leer este resumen debe conocer unidades utilizadas en la electrónica para una mejor comprensión de la materia, ya que la notación científica es indispensable para nuestra carrera y será necesario saber como ponerla en practica ya sea para utilizarla en aparatos tecnológicos o para una notación antigua como realizar los cálculos a manos de esta manera tendremos las bases necesarias para así desarrollar nuestros ejercicios o problemas que se nos presenten con el pasar del tiempo. 
 
 CAPITULO 1 - CANTIDADES Y UNIDADES:
-![image](https://user-images.githubusercontent.com/116779906/201503972-04cc9421-9e13-4cd2-b8de-c807f5fd5f0d.png)
+![CAP 1](https://user-images.githubusercontent.com/116779906/201504208-13fae5b8-e53d-40b1-92d8-dac4e4c1f7a4.png)
 CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
