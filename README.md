@@ -17,7 +17,8 @@ Comprender los fundamentos básicos de los circuitos eléctricos, mediante el es
 ## 2. MARCO TEÓRICO (RESUMEN)
 
 INTRODUCCIÓN:
-La persona que va a leer este resumen debe conocer unidades utilizadas en la electrónica para una mejor comprensión de la materia, ya que la notación científica es indispensable para nuestra carrera y será necesario saber como ponerla en practica ya sea para utilizarla en aparatos tecnológicos o para una notación antigua como realizar los cálculos a manos de esta manera tendremos las bases necesarias para así desarrollar nuestros ejercicios o problemas que se nos presenten con el pasar del tiempo. 
+
+-La persona que va a leer este resumen debe conocer unidades utilizadas en la electrónica para una mejor comprensión de la materia, ya que la notación científica es indispensable para nuestra carrera y será necesario saber como ponerla en practica ya sea para utilizarla en aparatos tecnológicos o para una notación antigua como realizar los cálculos a manos de esta manera tendremos las bases necesarias para así desarrollar nuestros ejercicios o problemas que se nos presenten con el pasar del tiempo. 
 
 CAPITULO 1 - CANTIDADES Y UNIDADES:
 
