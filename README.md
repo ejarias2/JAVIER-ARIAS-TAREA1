@@ -8,17 +8,16 @@ Comprender los fundamentos básicos de los circuitos eléctricos, mediante el es
 
    1.2 Especificos
    
--Indagar en fuentes web conceptos que ayuden al entendimiento de la asignatura
+-Consultar en los libros y textos citados en el sílabo de la materia para comprender la materia.
 
--Analizar los circuitos eléctricos y sus componentes para una correcta resolución de los ejercicios propuestos
+-Analizar los circuitos eléctricos junto con sus componentes para aprender como trabajan y su funcionamiento.
 
--Realizar los ejercicios de manera crítica para comprender las problemáticas propuestas en los ejercicios que ayudaran a la comprensión del tema
-
--Experimentar a través de los simuladores las herramientas de medición
+-Realizar los ejercicios de forma crítica para comprender las problemáticas propuestas en los ejercicios que ayudaran a la comprensión del tema
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
 INTRODUCCIÓN:
+La persona que va a leer este resumen debe conocer unidades utilizadas en la electrónica para una mejor comprensión de la materia, ya que la notación científica es indispensable para nuestra carrera y será necesario saber como ponerla en practica ya sea para utilizarla en aparatos tecnológicos o para una notación antigua como realizar los cálculos a manos de esta manera tendremos las bases necesarias para así desarrollar nuestros ejercicios o problemas que se nos presenten con el pasar del tiempo. 
 
 CAPITULO 1 - CANTIDADES Y UNIDADES:
 
