@@ -43,11 +43,12 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 
 ![image](https://user-images.githubusercontent.com/116779906/201504476-57c3497a-e99b-41d2-87b4-3ad573b3a3bb.png)
 ![image](https://user-images.githubusercontent.com/116779906/201504480-3e5f4c38-6d98-40d9-b9b2-e0524694006e.png)
-![image](https://user-images.githubusercontent.com/116779906/201504510-4b8e3d89-baac-4f77-877a-7a8a0b85100d.png)
-![image](https://user-images.githubusercontent.com/116779906/201504484-05d89d17-b34d-451f-b3e7-d281a06fbc79.png)
-![image](https://user-images.githubusercontent.com/116779906/201504485-4a4caed4-8b4d-44f6-b20d-750fabed5177.png)
-![image](https://user-images.githubusercontent.com/116779906/201504491-12e2c986-0789-463d-a9eb-6dd4253aed7f.png)
-![image](https://user-images.githubusercontent.com/116779906/201504494-b91d3066-6d4c-4f24-8dc9-3a2f60d1f90b.png)
+![image](https://user-images.githubusercontent.com/116779906/201504672-642741a1-bfc9-4c38-9eb2-6dfea3bc79e7.png)
+![image](https://user-images.githubusercontent.com/116779906/201504676-75f789e9-ddd9-4dc0-a213-506128e94aea.png)
+![image](https://user-images.githubusercontent.com/116779906/201504683-535e4a5e-abe1-4973-8a65-8d63d6d22612.png)
+![image](https://user-images.githubusercontent.com/116779906/201504689-5c8b79bc-dbbe-4bb3-8118-fb809b24dab8.png)
+![image](https://user-images.githubusercontent.com/116779906/201504691-35ffae30-e522-42ea-9ed8-481f6be14df6.png)
+![image](https://user-images.githubusercontent.com/116779906/201504694-323c6dbb-4770-45d7-b487-ce6dd843e9cf.png)
 
 
 ## 4. VIDEO
