@@ -3,7 +3,8 @@
 ## 1. OBJETIVOS
 
    1.1 General
-• Comprender los fundamentos básicos de los circuitos eléctricos, mediante el estudio y resolución de ejercicios para poder conocer las propiedades de los elementos eléctricos propios de la ingeniería.
+
+Comprender los fundamentos básicos de los circuitos eléctricos, mediante el estudio y resolución de ejercicios para poder conocer las propiedades de los elementos eléctricos propios de la ingeniería.
    1.2 Especificos
 
 ## 2. MARCO TEÓRICO (RESUMEN)
