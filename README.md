@@ -33,6 +33,12 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ![9_MC](https://user-images.githubusercontent.com/93893919/140950209-56370dfd-6676-40c8-ad06-85530450c94d.jpeg)
 
 ## 3. RESOLUCIÓN DE EJERCICIOS Y PROBLEMAS
+![image](https://user-images.githubusercontent.com/116779906/201504387-29a563d7-5f1c-4b9b-9b06-d4139168ebb5.png)
+![image](https://user-images.githubusercontent.com/116779906/201504389-16c04000-f44f-4cd8-8689-0731dabc1c66.png)
+![image](https://user-images.githubusercontent.com/116779906/201504415-82b67d84-56b4-41ce-80aa-8407944b9bc5.png)
+![image](https://user-images.githubusercontent.com/116779906/201504420-7889791d-17a0-40f2-bb8e-f9eebb8b0bfe.png)
+
+
 
 ## 4. VIDEO
 
