@@ -50,7 +50,7 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 
 
 ## 4. VIDEO
-https://www.youtube.com/watch?v=9-tYawhBBWE
+https://www.youtube.com/watch?v=5kxAldrlJQQ
 
 ## 5. CONCLUSIONES
 -El uso de la notacion cientificia y de ingenieria es sumamente util al momento de querer trabajar con numeros de gran tamaño esto apoyado por los prefijos metricos (en caso de notacion de ingenieria) quienes sustituyen la necesidad de escribir la base 10, agilizando el trabajo.
