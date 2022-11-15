@@ -46,8 +46,7 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ![image](https://user-images.githubusercontent.com/116779906/201505020-0820725d-c999-4990-b32c-d960c1fa8886.png)
 ![image](https://user-images.githubusercontent.com/116779906/201505021-9bec5464-b6fc-4be9-86f0-7e023ba6f1f9.png)
 ![image](https://user-images.githubusercontent.com/116779906/201505026-597ab850-8ab9-4264-8f6a-03b58007e6fc.png)
-
-
+![image](https://user-images.githubusercontent.com/116779906/201800760-d2536a26-4e47-4fc6-9a98-a383a228af42.png)
 
 
 ## 4. VIDEO
